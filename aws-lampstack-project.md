@@ -175,10 +175,12 @@ We need to edit the /etc/apache2/mods-enabled/dir.conf file and change the order
 </IfModule>
 ```
 
-Save and close the file. The Apache service needs to be restarted for the changes to take effect.
+Save and close the file, The Apache service needs to be restarted for the changes to take effect.
+
 `sudo systemctl reload apache2`
 
 Create a new file named index.php inside the projectlamp root folder:
+
 `vim /var/www/projectlamp/index.php`
 
 ```
