@@ -79,7 +79,7 @@ Confirm the php version
 
 ![Php version](./Images/php_version.JPG)
 
-At this poinnnt we have successfully installed all 4 applications that make up the lamp stack
+At this point we have successfully installed all 4 applications that make up the lamp stack
 
 - [x] Linux
 - [x] Apache Http Server
